@@ -1,0 +1,6 @@
+{
+  "name": "MediaVault",
+  "description": "Premium video and audio downloader with MediaStore gallery synchronization and built-in offline Media3 player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
